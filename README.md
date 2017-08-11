@@ -37,7 +37,7 @@ Or if using NodeJS
 1. Browse to the cloned repository on your computer
 1. Copy/rename `config.sample.json` to `config.json`
 1. Open `config.json` and set enter your Amazon username and password
-1. From the repo directory, run: `npm install` and then `npm run server`
+1. From the repo directory, run: `npm install` and then `npm start`
 1. Open your browser and navigate to <http://127.0.0.1:2539/> to see the JSON
    dump of your Alexa devices
 
